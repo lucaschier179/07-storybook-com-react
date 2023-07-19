@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/alura-cursos/07-storybook-com-react#readme",
   "dependencies": {
+    "@storybook/addons": "^7.1.0",
+    "@storybook/theming": "^7.1.0",
     "@types/styled-components": "^5.1.26",
     "next": "^13.4.10",
     "react": "^18.2.0",
