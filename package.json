@@ -26,6 +26,7 @@
     "@storybook/addons": "^7.1.0",
     "@storybook/theming": "^7.1.0",
     "@types/styled-components": "^5.1.26",
+    "addon-screen-reader": "^1.8.6",
     "next": "^13.4.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

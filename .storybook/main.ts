@@ -9,6 +9,7 @@ const config: StorybookConfig = {
     "@storybook/addon-essentials",
     "@storybook/addon-onboarding",
     "@storybook/addon-interactions",
+    "addon-screen-reader"
   ],
   framework: {
     name: "@storybook/nextjs",
